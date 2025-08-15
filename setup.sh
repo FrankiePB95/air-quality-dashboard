@@ -1,3 +1,4 @@
+# Streamlit setup code. 
 mkdir -p ~/.streamlit/
 echo "\
 [server]\n\

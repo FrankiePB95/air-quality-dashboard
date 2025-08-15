@@ -1,3 +1,4 @@
+# Files to be ignored by Git.
 core.Microsoft*
 core.mongo*
 core.python*
